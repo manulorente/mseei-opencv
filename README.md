@@ -1,2 +1,2 @@
 # ComputerVision
-C++ library for computer vision based in OpenCV
+C++ computer vision library based in OpenCV
