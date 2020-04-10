@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\manuel\dropbox\universidad\mseei\11-visionartificial\practica2\p2\x64\debug\p2.exe' is denied.
+  p2.cpp
+  p2.vcxproj -> C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Practica2\p2\x64\Debug\p2.exe

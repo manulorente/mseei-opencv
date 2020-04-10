@@ -1,0 +1,16 @@
+﻿  pfinal.cpp
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(92): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(101): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(156): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(159): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\Trabajo-Final\pfinal\pfinal.cpp(222): warning C4018: '<': signed/unsigned mismatch
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
