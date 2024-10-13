@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\manuel\dropbox\universidad\mseei\11-visionartificial\4-segmentacion\p4\x64\debug\p4.exe' is denied.
-  p4.cpp
-  p4.vcxproj -> C:\Users\Manuel\Dropbox\Universidad\MSEEI\11-VisionArtificial\4-Segmentacion\p4\x64\Debug\p4.exe
